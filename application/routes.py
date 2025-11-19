@@ -1,3 +1,4 @@
+
 from flask import render_template
 import random
 from application import app
